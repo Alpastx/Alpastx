@@ -25,8 +25,11 @@
 <a href="https://medium.com/@alpeshbhagwatkar45">
   <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-<a href="">
-  <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+<a href="https://tryhackme.com/p/Alpastx">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="tryhackme" />
+</a>
+<a href="https://app.hackthebox.com/profile/791406">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" alt="HTB" />
 </a>
 
 ![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
