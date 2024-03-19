@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://twitter.com/Alpastx">
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
 </a>
 <a href="https://medium.com/@alpeshbhagwatkar45">
   <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
