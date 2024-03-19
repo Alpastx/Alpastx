@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=685AFF&center=true&random=false&width=435&lines=Hi%2C+I'm+Alpastx;A+cybersec+Enthusiast+;A+Bug+Hunter;A+CTF+Player;A+Student)](https://git.io/typing-svg)
+
 # 💫 About Me:
 I'm Alpastx <br>🔍💻 Bug Hunter | Cybersec Enthusiast | Student<br><br>🌟 Passionate about: Web | API | App Pentesting<br><br> ✨ Illuminating the digital world  ✨
 
