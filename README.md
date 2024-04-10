@@ -27,7 +27,7 @@
 </a>
 
 
-![Alpastx's hackthebox stats](http://www.hackthebox.eu/badge/image/791406)
+![Alpastx's hackthebox stats](http://www.hackthebox.eu/badge/image/791406) <br>
 <a href="https://tryhackme.com/p/Alpastx">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Alpastx.png" alt="TryHackMe"></a>
 ![Alpastx's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpastx&show_icons=true&theme=radical&card_width=750)
